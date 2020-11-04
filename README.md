@@ -6,6 +6,8 @@
 •	Covers many advanced algorithm like Minimax Tree, Alpha-Beta pruning, RL and BN
 
 1.Search: Depth First Search, Breadth First Search, Uniformed Cost Search, and A* search
+  
+  To run the app, go the the file location in terminal and type python3 pacman.py -l tinyMaze -p SearchAgent 
 
 2.Multi-agent Search: Minimax Tree, Alpha-beta pruning, Expectmax tree
 
